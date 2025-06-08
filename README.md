@@ -2,8 +2,6 @@
 
 Kodluyoruz.com frontend patikası kapsamında yapmış olduğum instagram klonu ödevi.
 
-Github pages de yayınladığımda siteye giriş yapılamıyor çünkü google siteyi kimlik avı amacı ile instagramın bir taklidi olduğunu düşünüyor :)
-
 ###          [go to site](https://yasinenis.github.io/instagram-clone/)
 
 ## Preview photos
